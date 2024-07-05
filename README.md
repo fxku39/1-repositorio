@@ -1,2 +1,3 @@
 # 1-repositorio
-Ceado para realizar puebas y conocer la herramienta
+Creado para realizar puebas y conocer la herramienta
+Edicion del readme
